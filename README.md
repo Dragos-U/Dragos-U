@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dragos</h1>
-<h3 align="center">Embracing Backend Development</h3>
+<h3 align="center">Web developer</h3>
 
-- 🔭 I’m currently working on **SpringBoot projects**
+- 🔭 I’m currently working on **Spring and React projects**
 
-- 🌱 I’m currently learning **Spring, SystemDesign**
+- 🌱 I’m currently learning **React, SystemDesign**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
